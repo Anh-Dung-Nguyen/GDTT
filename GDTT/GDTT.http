@@ -1,0 +1,6 @@
+@GDTT_HostAddress = http://localhost:5269
+
+GET {{GDTT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
